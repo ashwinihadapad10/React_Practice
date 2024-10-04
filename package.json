@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "I am building React app from scrath",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinihadapad10/React_Practice.git"
+  },
+  "keywords": [],
+  "author": "Ashwini Hadapad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinihadapad10/React_Practice/issues"
+  },
+  "homepage": "https://github.com/ashwinihadapad10/React_Practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
